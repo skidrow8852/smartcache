@@ -1,4 +1,6 @@
-# SmartCache: An Optimized Content Caching System
+# SmartCache: An Optimized Content Caching System API
+![Capture](https://github.com/user-attachments/assets/534783a3-f3f1-464a-be94-e07ba8b3bffc)
+
 
 ## Overview
 SmartCache is a robust and efficient content caching system built using FastAPI. It is designed to cache responses from a simulated slow API and serve cached content with features like cache invalidation, stampede prevention, and statistics tracking. The system ensures optimal performance, thread safety, and efficient memory usage through a Least Recently Used (LRU) eviction policy.
